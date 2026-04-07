@@ -19,5 +19,26 @@
 - **Frontend**: React, TypeScript, CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: JSON or MongoDB (if applicable)  
-- **Version Control**: Git & GitHub  
+- **Version Control**: Git & GitHub
 
+---
+
+## Project Stucture
+- contracts/
+- backend/
+- frontend/
+- docs/
+- README.md
+
+---
+
+## How to Run
+### Backend
+- cd backend
+- npm install
+- npm start
+
+### Frontend
+- cd frontend
+- npm install
+- npm start
