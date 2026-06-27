@@ -26,7 +26,9 @@ Recording ownership changes immutably
 Enabling secure peer-to-peer transfers
 Providing transparent ownership history
 Reducing dependency on intermediaries
+
 ✨ Key Features
+
 🏡 Property tokenization using smart contracts
 🔐 Secure ownership transfer system
 📜 Immutable transaction history
@@ -36,6 +38,7 @@ Reducing dependency on intermediaries
 🌐 Web-based user interface
 
 🧱 System Architecture
+
 User
   ↓
 Frontend (React / TypeScript)
@@ -49,6 +52,7 @@ Blockchain Network (Ethereum / Ganache / Testnet)
 Distributed Ledger Storage
 
 🛠️ Tech Stack
+
 Frontend
 React.js / TypeScript
 HTML5, CSS3
@@ -65,6 +69,7 @@ Git & GitHub
 VS Code
 
 📁 Project Structure
+
 ProChain/
 │
 ├── frontend/              # UI application
@@ -77,6 +82,7 @@ ProChain/
 └── README.md
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/Lahari4s/ProChain-A-Blockchain-Based-Property-Tokenization-and-Ownership-Monitoring-System.git
 cd ProChain-A-Blockchain-Based-Property-Tokenization-and-Ownership-Monitoring-System
@@ -92,12 +98,14 @@ npm start
 
 
 🔐 Security Features
+
 Access control using smart contract modifiers
 Immutable transaction ledger
 Secure ownership validation
 Prevention of unauthorized transfers
 
 🚀 Future Improvements
+
 Integration with real estate APIs
 NFT-based property certificates
 Mobile application support
