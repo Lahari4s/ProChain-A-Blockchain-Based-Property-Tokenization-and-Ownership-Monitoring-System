@@ -1,5 +1,6 @@
 🏠 ProChain
 Blockchain-Based Property Tokenization and Ownership Monitoring System
+
 📌 Overview
 
 ProChain is a blockchain-powered platform designed to tokenize real-world properties and enable secure, transparent, and tamper-proof ownership tracking. The system leverages smart contracts to digitize property assets, ensuring immutable ownership records and eliminating fraud in traditional property management systems.
@@ -15,6 +16,7 @@ Fraudulent transactions
 Manual paperwork and delays
 Centralized control risks
 Difficult ownership verification
+
 🎯 Solution
 
 ProChain solves these issues by:
@@ -32,6 +34,7 @@ Reducing dependency on intermediaries
 📊 Ownership tracking dashboard
 ⚡ Fast and transparent transactions
 🌐 Web-based user interface
+
 🧱 System Architecture
 User
   ↓
@@ -44,6 +47,7 @@ Smart Contracts (Solidity)
 Blockchain Network (Ethereum / Ganache / Testnet)
   ↓
 Distributed Ledger Storage
+
 🛠️ Tech Stack
 Frontend
 React.js / TypeScript
@@ -59,6 +63,7 @@ Tools
 MetaMask
 Git & GitHub
 VS Code
+
 📁 Project Structure
 ProChain/
 │
@@ -70,6 +75,7 @@ ProChain/
 ├── test/                  # Smart contract tests
 ├── docs/                  # Documentation
 └── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/Lahari4s/ProChain-A-Blockchain-Based-Property-Tokenization-and-Ownership-Monitoring-System.git
@@ -83,24 +89,21 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 5️⃣ Start frontend
 npm start
-📸 Screenshots
 
-Add screenshots here for better presentation
 
-/screenshots/dashboard.png
-/screenshots/property-list.png
-/screenshots/transaction-history.png
 🔐 Security Features
 Access control using smart contract modifiers
 Immutable transaction ledger
 Secure ownership validation
 Prevention of unauthorized transfers
+
 🚀 Future Improvements
 Integration with real estate APIs
 NFT-based property certificates
 Mobile application support
 Layer-2 scaling for faster transactions
 Multi-chain deployment (Polygon, Arbitrum)
+
 👨‍💻 Author
 
 Lahari
